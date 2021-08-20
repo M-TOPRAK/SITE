@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(172, 231, 255);
+}
+
+.sabit {
+    width: 1350px;
+    height: 50px;
+    position: fixed;
+    background: rgb(31, 194, 194);
+    border-radius: 25px 25px 25px 25px;
+    top: 10px;
+    transition: 5s;
+}
+.sabit li {
+    float: right;
+    list-style: none;
+    transition: 2s;
+}
+
+.sabit li a {
+    margin: 0 0 200px 10px;
+    border-radius: 7.5px;
+}
+
+#y {
+    transition: 5s;
+    border-radius: 25px;
+    width: 150px;
+    height:38px;
+    margin: -15px 0 0 10px ;
+    padding:12px 0 0 0;
+    float: left;
+    background-color: crimson;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(252, 252, 252);
+}
+
+#g {
+    transition:5s;
+    border-radius: 25px;
+    width: 150px;
+    height: 500px;
+    margin: -16px 0 0  ;
+    padding:0 0 0 0;
+    float: left;
+    background-color: crimson;
+}
+
+#g:hover {
+    background: rgb(16, 134, 0);
+    transition: 15s;
+}
+
+#y a {
+    text-decoration: none;
+    color: white;
+}
+
+#y:hover {
+    background: rgb(8, 124, 33);
+    transition: 10s;
+}
+
+#r1 {
+    border-radius: 25px;
+    margin: -16px 0 0 0;
+}
+
+#res1 {
+    height: 40px;
+    width: 40px;
+    background-image: url(ins.png);
+    background-size: 100% 100%;
+    border-radius: 10px;
+    margin: -11px 5px 0 0 ;
+}
+
+#res2 {
+    height: 40px;
+    width: 40px;
+    background: url(faec.png);
+    background-size: 100% 100%;
+    border-radius: 10px;
+    margin: -11px 5px 0 0 ;
+}
+
+#res3 {
+    height: 40px;
+    width: 40px;
+    background: url(twe.png);
+    background-size: 100% 100%;
+    border-radius: 10px;
+    margin: -11px 5px 0 0 ;
+}
+ 
+.vu {
+    height: 700px;
+    width: 1000px;
+    margin-left: 250px;
+    background-color: thistle;
+    margin-top:75px;
+    border-radius:100px;
+}
+
+.bas1 {
+    font-size:50px ;
+    color: red;
+    text-align: center;
+    width: auto;
+    height: auto;
+    text-shadow:  10px 10px 4px rgb(218, 40, 40) ;
+    transition: 10s;
+}
+
+.c {
+    font-size: 18px;
+    color: rgb(4, 0, 255);
+    text-align: center;
+   text-shadow:  10px 10px 4px rgb(40, 132, 218)
+}
+
+
+
+.link {
+    width: 1000px;
+    height:200px;
+    background-color: rgb(0, 110, 255);
+    border-radius: 50px;
+    transition: 10s;
+    margin-top: 30px;
+}
+
+#r {
+    border-radius: 10px;
+    margin: 16px 0 0 124px;
+    transition: 10s;
+}

@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(7, 7, 90);
+    }
+    
+    .sabit {
+        width:100%;
+        height: 50px;
+        background: rgb(31, 129, 194);
+        margin: -16px 0 0 0;
+    }
+    .sabit li {
+        float: right;
+        list-style: none;
+    }
+    
+    .sabit li a {
+        margin: 0 0 200px 10px;
+        border-radius: 7.5px;
+    }
+    
+    #y {
+        width: 150px;
+        height:38px;
+        padding:12px 0 0 0;
+        float: left;
+        background-color: rgb(20, 40, 220);
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        color: rgb(252, 252, 252);
+        margin-left: -40px;
+    }
+    
+    #y a {
+        text-decoration: none;
+        color: white;
+    }
+    
+    #y:hover {
+        background: rgb(8, 124, 33);
+        transition: 10s;
+    }
+    
+    #res1 {
+        height: 40px;
+        width: 40px;
+        background-image: url(ins.png);
+        background-size: 100% 100%;
+        border-radius: 10px;
+        margin: 5px 5px 0 0 ;
+    }
+    
+    #res2 {
+        height: 40px;
+        width: 40px;
+        background: url(faec.png);
+        background-size: 100% 100%;
+        border-radius: 10px;
+        margin: 5px 5px 0 0 ;
+    }
+    
+    #res3 {
+        height: 40px;
+        width: 40px;
+        background: url(twe.png);
+        background-size: 100% 100%;
+        border-radius: 10px;
+        margin: 5px 5px 0 0 ;
+    }
+     
+    #kul {
+        width: 600px;
+        height: 40px;
+        margin:100px 0 0 375px;
+        border: solid 2px ;
+        font-size: 20px;
+    }
+    
+    #kul2 {
+        width: 600px;
+        height: 40px;
+        margin: 50px 0 0 375px;
+        border: solid 2px ;
+        font-size: 20px;
+    }
+    
+    #kul3 {
+        width: 600px;
+        height: 40px;
+        margin: 50px 0 0 375px;
+        border: solid 2px ;
+        font-size: 20px;
+        background-color: blueviolet;
+        border-radius: 300px;
+        cursor: pointer;
+    }
+    
